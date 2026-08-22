@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+}
+
+.imgg {
+    width: 200px;
+    height: 150px;
+    border: 2px solid rgb(1, 1, 12);
+}
+.card { 
+    font-family: 'Lucida Sans' ,Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-bottom: 8px solid #d8cefe;
+    text-emphasis-color: #2b2839;
+    font-style: italic;
+    background-color: #ddebf8;
+     padding: 20px;
+     display: flex; 
+     justify-content: space-around;
+     
+}
+
