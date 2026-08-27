@@ -20,11 +20,16 @@ body {
     color:#fff;
      padding: 20px;
      display: flex; 
-     justify-content: space-around;
+     justify-content: space-around;/
+    font-size: 10px;
      
 }
-.border-blue a{
-    color:#fff;
+.border-blue {
+    border: 2px solid #8278a7;
+    padding: 10px;
+    margin: 10px;
+    background-color: #423e54;
+    color: #fff;
 }
 
 
